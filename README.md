@@ -43,24 +43,5 @@ Open the Project:
 
 Double-click index.html or open it directly in any modern browser (Chrome, Safari, Firefox, Edge).
 
-📁 Project Structure
-
-Plaintext
-
-web-ios/
-├── index.html         # Main entry point (loads the complete OS UI)
-
-
-🛠️ Built With
-
-HTML5: Structural components and app frame layouts.
-
-
-
-CSS3: Flexbox, CSS Grid, custom keyframe animations, and native UI blur effects (backdrop-filter).
-
-
-
-JavaScript (ES6+): Window management, DOM manipulation, state handling, and data persistence via localStorage.
 
 
